@@ -12,7 +12,8 @@
 #' @name synaptome.data
 #'
 #' @references
-#' Sorokina, O., Mclean, C., Croning, M.D.R. et al.  A unified resource and
-#' configurable model of the synapse proteome and its role in disease.
-#' Sci Rep 11, 9967 (2021).  https://doi.org/10.1038/s41598-021-88945-7
+#' Sorokina, O., Mclean, C., Croning, M.D.R. et al. (2021) "A unified resource
+#' and configurable model of the synapse proteome and its role in disease."
+#' \emph{Sci Rep} \strong{11}(1), 9967–9.
+#' \url{https://doi.org/10.1038/s41598-021-88945-7}
 "_PACKAGE"
