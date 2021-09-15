@@ -2,11 +2,11 @@
 #'
 #' The package provides access to the public copy of the Synaptic
 #' proteome database. It was designed as an accompaniment for
-#' \code{\link{synaptome.db}} package. Database provides information for
-#' specific genes and allows building the protein-protein interaction graph
-#' for gene sets, synaptic compartments, and brain regions. The database is
+#' \code{\link[synaptome.db]{synaptome.db}} package. Database provides
+#' information for specific genes and allows building the protein-protein
+#' interaction graph for gene sets, synaptic compartments, and brain regions.
 #' not intended for direct access. All querying and analysis is supposed to
-#' be performed via \code{\link{synaptome.db}} functionality.
+#' be performed via \code{\link[synaptome.db]{synaptome.db}} functionality.
 #'
 #' @docType package
 #' @name synaptome.data
