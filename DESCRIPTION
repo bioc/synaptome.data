@@ -19,3 +19,10 @@ Encoding: UTF-8
 BugReports: https://github.com/lptolik/synaptome.db/issues/
 biocViews: DataImport, CustomDBSchema, AnnotationHub
 RoxygenNote: 7.1.2
+Suggests: 
+    BiocStyle,
+    knitr,
+    RefManageR,
+    rmarkdown,
+    sessioninfo
+VignetteBuilder: knitr
