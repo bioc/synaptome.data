@@ -93,7 +93,7 @@ citation("synaptome.data")
 
 # Quick start to using to `synaptome.data`
 
-```{r "start", message=FALSE}
+```{r "start", message=FALSE, eval=FALSE}
 library("synaptome.data")
 ahub <- AnnotationHub::AnnotationHub(hub='http://127.0.0.1:9393/')
 sdb<-AnnotationHub::query(ahub,'SynaptomeDB')
