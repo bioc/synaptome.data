@@ -22,9 +22,7 @@
 
 on:
   push:
-      - master
   pull_request:
-      - master
 
 name: R-CMD-check-bioc
 
