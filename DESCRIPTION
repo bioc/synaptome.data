@@ -16,7 +16,6 @@ Description: The package provides access to the copy of the Synaptic
     compartments, and brain regions.
 License: Artistic-2.0
 Encoding: UTF-8
-LazyData: true
 BugReports: https://github.com/lptolik/synaptome.db/issues/
 biocViews: DataImport, CustomDBSchema, AnnotationHub
 RoxygenNote: 7.1.2
