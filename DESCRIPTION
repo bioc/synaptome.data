@@ -1,7 +1,8 @@
 Package: synaptome.data
 Type: Package
 Title: AnnotationData for Synaptome.DB package
-Version: 0.1.0
+Version: 0.99.0
+Date: 2021-09-15
 Authors@R: c(
     person("Anatoly", "Sorokin", 
         email="lptolik@gmail.com", role="aut"), 
@@ -16,5 +17,6 @@ Description: The package provides access to the copy of the Synaptic
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
+BugReports: https://github.com/lptolik/synaptome.db/issues/
 biocViews: DataImport, CustomDBSchema, AnnotationHub
 RoxygenNote: 7.1.2

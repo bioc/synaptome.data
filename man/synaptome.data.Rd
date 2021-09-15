@@ -20,6 +20,13 @@ and configurable model of the synapse proteome and its role in disease."
 \emph{Sci Rep} \strong{11}(1), 9967–9.
 \url{https://doi.org/10.1038/s41598-021-88945-7}
 }
+\seealso{
+Useful links:
+\itemize{
+  \item Report bugs at \url{https://github.com/lptolik/synaptome.db/issues/}
+}
+
+}
 \author{
 \strong{Maintainer}: Oksana Sorokina \email{oksana.sorokina@ed.ac.uk}
 
