@@ -1,19 +1,22 @@
 Package: synaptome.data
 Type: Package
 Title: AnnotationData for Synaptome.DB package
-Version: 0.1.0
+Version: 0.99.0
+Date: 2021-09-15
 Authors@R: c(
     person("Anatoly", "Sorokin", 
         email="lptolik@gmail.com", role="aut"), 
     person("Oksana", "Sorokina", 
         email="oksana.sorokina@ed.ac.uk", role=c("aut", "cre")),
     person("J. Douglas", "Armstrong", role = "aut") )
-Description: The package contains local copy of the Synaptic proteome 
-    database. On top of this it provide a set of utility R functions 
-    to query and analyse its content. It allows extraction of information 
-    for specific genes and building the protein-protein interaction graph 
-    for gene sets, synaptic compartments, and brain regions.
+Description: The package provides access to the copy of the Synaptic 
+    proteome database. It was designed as an accompaniment for Synaptome.DB 
+    package. Database provides information for specific genes and allows 
+    building the protein-protein interaction graph for gene sets, synaptic 
+    compartments, and brain regions.
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
-biocViews: FunctionalAnnotation, CustomDBSchema, AnnotationHub
+BugReports: https://github.com/lptolik/synaptome.db/issues/
+biocViews: DataImport, CustomDBSchema, AnnotationHub
+RoxygenNote: 7.1.2
