@@ -48,7 +48,6 @@ bib <- c(
     RefManageR = citation("RefManageR")[1],
     rmarkdown = citation("rmarkdown")[1],
     sessioninfo = citation("sessioninfo")[1],
-    testthat = citation("testthat")[1],
     synaptome.data = citation("synaptome.data")[1]
 )
 ```
@@ -115,7 +114,6 @@ The `r Biocpkg("synaptome.data")` package `r Citep(bib[["synaptome.data"]])` was
 * `r CRANpkg("RefManageR")` `r Citep(bib[["RefManageR"]])`
 * `r CRANpkg("rmarkdown")` `r Citep(bib[["rmarkdown"]])`
 * `r CRANpkg("sessioninfo")` `r Citep(bib[["sessioninfo"]])`
-* `r CRANpkg("testthat")` `r Citep(bib[["testthat"]])`
 
 This package was developed using `r BiocStyle::Biocpkg("biocthis")`.
 

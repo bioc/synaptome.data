@@ -8,6 +8,7 @@
 #' not intended for direct access. All querying and analysis is supposed to
 #' be performed via \code{\link[synaptome.db]{synaptome.db}} functionality.
 #'
+#' @import AnnotationHub
 #' @docType package
 #' @name synaptome.data
 #'
