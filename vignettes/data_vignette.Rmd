@@ -2,17 +2,13 @@
 title: "synaptome.data database for synaptome.db"
 author: 
   - name: Oksana Sorokina
-    affiliation:
-    - The School of Informatics, University of Edinburgh, Edinburgh, UK
+    affiliation: The School of Informatics, University of Edinburgh, Edinburgh, UK
     email: oksana.sorokina@ed.ac.uk
   - name: Anatoly Sorokin
-    affiliation:
-    - Department of Biochemistry and Systems Biology, Institute of Systems, \
-    Molecular and Integrative Biology, University of Liverpool, UK
+    affiliation: Department of Biochemistry and Systems Biology, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, UK
     email: a.sorokin@liverpool.ac.uk
   - name: J. Douglas Armstrong
-    affiliation:
-    - The School of Informatics, University of Edinburgh, Edinburgh, UK
+    affiliation: The School of Informatics, University of Edinburgh, Edinburgh, UK
 output: 
   BiocStyle::html_document:
     self_contained: yes
