@@ -17,7 +17,7 @@ Description: The package provides access to the copy of the Synaptic
 License: Artistic-2.0
 Encoding: UTF-8
 BugReports: https://github.com/lptolik/synaptome.db/issues/
-biocViews: CustomDBSchema, AnnotationHub, FunctionalAnnotation, AnnotationData
+biocViews: DataImport, CustomDBSchema, AnnotationHub
 RoxygenNote: 7.1.2
 Depends: R (>= 3.5.0), AnnotationHub
 Suggests: 
