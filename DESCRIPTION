@@ -1,8 +1,8 @@
 Package: synaptome.data
 Type: Package
 Title: AnnotationData for Synaptome.DB package
-Version: 0.99.3
-Date: 2021-09-15
+Version: 1.01.0
+Date: 2022-10-12
 Authors@R: c(
     person("Anatoly", "Sorokin", 
         email="lptolik@gmail.com", role="aut"), 
@@ -13,12 +13,16 @@ Description: The package provides access to the copy of the Synaptic
     proteome database. It was designed as an accompaniment for Synaptome.DB 
     package. Database provides information for specific genes and allows 
     building the protein-protein interaction graph for gene sets, synaptic 
-    compartments, and brain regions.
+    compartments, and brain regions.  In the current update we added 6 more 
+    synaptic proteome studies, which results in total of 64 studies. 
+    We introduced Synaptic Vesicle as a separate compartment. We also added 
+    coding mutations for Autistic Spectral disorder and Epilepsy collected 
+    from publicly available databases.
 License: Artistic-2.0
 Encoding: UTF-8
 BugReports: https://github.com/lptolik/synaptome.db/issues/
 biocViews: CustomDBSchema, AnnotationHub, FunctionalAnnotation, AnnotationData
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Depends: R (>= 3.5.0), AnnotationHub
 Suggests: 
     BiocStyle,
