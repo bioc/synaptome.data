@@ -1,7 +1,7 @@
 Package: synaptome.data
 Type: Package
 Title: AnnotationData for Synaptome.DB package
-Version: 0.99.5
+Version: 0.99.6
 Date: 2022-10-12
 Authors@R: c(
     person("Anatoly", "Sorokin", 
